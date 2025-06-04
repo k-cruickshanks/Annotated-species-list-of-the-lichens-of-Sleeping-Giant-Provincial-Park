@@ -5,5 +5,5 @@ This list includes lichens and lichenized fungi collected during the 28th Tucker
 
 To view the complete species list: [LichensOfSleepingGiantProvincialPark.csv](https://github.com/k-cruickshanks/Annotated-species-list-of-the-lichens-of-Sleeping-Giant-Provincial-Park/blob/main/LichensOfSleepingGiantProvincialPark.csv)
 
-To download the list: Download the lichen dataset: [LichensOfSleepingGiantProvincialPark.csv](https://raw.githubusercontent.com/k-cruickshanks/Annotated-species-list-of-the-lichens-of-Sleeping-Giant-Provincial-Park/main/LichensOfSleepingGiantProvincialPark.csv)
+To download the list: Download the lichen dataset: Download the lichen dataset: <a href="https://raw.githubusercontent.com/k-cruickshanks/Annotated-species-list-of-the-lichens-of-Sleeping-Giant-Provincial-Park/main/LichensOfSleepingGiantProvincialPark.csv" download>LichensOfSleepingGiantProvincialPark.csv</a>
 
